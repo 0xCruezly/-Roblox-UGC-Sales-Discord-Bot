@@ -1,0 +1,19 @@
+{
+  "name": "roblox-ugc-sales-bot",
+  "version": "2.0.0",
+  "description": "Bot notifikasi penjualan UGC Roblox ke Discord dengan fitur statistik dan ringkasan harian.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "keywords": ["roblox", "ugc", "discord", "webhook", "sales", "notifications"],
+  "author": "Nama Anda",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
